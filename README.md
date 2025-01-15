@@ -10,6 +10,10 @@
 [FM-Mirror1]: https://mega.nz/file/RGw3kJib#blz1oyMsa3NV6kexS0PsD57Fdsp2k2ITfXPiQ7JnXe8 
 [FM-Mirror2]: https://www.mediafire.com/file/z2fw5sdltchq3tl/Liberty_City_Preservation_Project_-_FiveM.zip.torrent/file
 [FM-Mirror3]: https://disk.yandex.com/d/HLBcUC5KaFzHUw
+[Hotfix]: https://www.mediafire.com/file/tc4wnj01y5ivmak/WorldTravelPatches.asi/file
+[Hotfix-Mirror]: https://disk.yandex.com/d/fQlKNcxYzTuO-w
+[Uninstaller]: https://www.mediafire.com/file/yxk8ssuxyeo8hda/UNINSTALL+-+Liberty+City+Preservation+Project.oiv/file
+[Unin-Mirror]: https://disk.yandex.com/d/n0XcGoaueLmp5g
 [World Travel]: https://worldtravel.dev
 
 # Liberty City Perservation Project REVIVAL
@@ -27,11 +31,13 @@
 
 Knowing that the project will be cancelled (and that it has already caused enough of a stir) I will try to keep alive (at least) the download of the files (even at the risk of losing all my accounts or getting sued by Rockstar Games/Take-Two)
 
-Take all the **TORRENT** links (Full files later I guess)
+### Downloads
 
 - Singleplayer (normal textures): [SP] | [SP-Mirror1]? | [SP-Mirror2] | [SP-Mirror3]
 - Singleplayer (HD textures): [SPHD] | [SPHD-Mirror1]? | [SPHD-Mirror2] | [SPHD-Mirror3]
 - FiveM (this isn't part of the bussiness TT): [FM] | [FM-Mirror1]? | [FM-Mirror2] | [FM-Mirror3]
+- Unique Hotfix (Singleplayer only): [Hotfix] | [Hotfix-Mirror]
+- Uninstaller: [Uninstaller] | [Unin-Mirror]
 
   ***?: This host is hated by people, but it's just in case.***
 
