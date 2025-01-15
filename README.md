@@ -15,6 +15,9 @@
 [Uninstaller]: https://www.mediafire.com/file/yxk8ssuxyeo8hda/UNINSTALL+-+Liberty+City+Preservation+Project.oiv/file
 [Unin-Mirror]: https://disk.yandex.com/d/n0XcGoaueLmp5g
 [World Travel]: https://worldtravel.dev
+[WT Archive]: https://web.archive.org/web/20250115230110/https://worldtravel.dev/
+[ScriptHookV]: https://www.dev-c.com/gtav/scripthookv/
+[OpenIV]: https://openiv.com/
 
 # Liberty City Perservation Project REVIVAL
 
@@ -50,12 +53,12 @@ Ensure you have Grand Theft Auto V installed via Steam, Rockstar Games Launcher,
 
 1. Download the Liberty City mod files below
 2. Singleplayer files or Singleplayer HD files (for enhanced graphics).
-3. Download ScriptHookV and extract the files.
+3. Download [ScriptHookV] and extract the files.
    Open the Bin folder from the ScriptHookV download and copy the following files:
 - dinput8.dll
 - ScriptHookV.dll
 4. Paste these into the main directory of your GTA V installation (whereGTA5.exe is located).
-5. Download OpenIV and install it. Set it up for Grand Theft Auto V.
+5. Download [OpenIV] and install it. Set it up for Grand Theft Auto V.
 - In OpenIV, go to the Tools menu in the top-left corner and open ASI Manager. Install all three options that appear.
 - After installing ASI Manager, you should now have a mods folder in your GTA V directory.
 6. Return to the Tools menu, select Package Installer, and follow these steps for each part of the Liberty City files:
@@ -110,8 +113,23 @@ FiveM Installation
 
 [![Installation video](https://i.imgur.com/UgFYULC.png)](https://www.youtube.com/watch?v=Ggm5gzCd9Ig&ab)
 
+## Gallery (taked from World Travel's discord server *maybe dead in future*)
+
+<details>
+
+![AlgonquinSunset](https://github.com/sebasrock156/LCPPRevival/blob/main/img/20250116003003_1.png?raw=true)
+
+![AlgonquinArc](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/20250116003126_1.png)
+
+![BrokerSt](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/QuantV_3.0.0_2025-01-14_23-36-09-053.png)
+
+![DukesBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-38.png)
+ 
+![NightBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-52.png)
+</details>
+
 ## Credits
-- [World Travel] (the orginal devs of this project).
+- [World Travel] | [WT Archive] (the orginal devs of this project).
 - PG (for having a good sense to save torrents in contradiction to the developers' request).
 - All seeders (for making it possible for the download to still exist).
 - All Rockstar Games studios (for developing the original games and maps).
