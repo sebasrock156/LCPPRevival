@@ -21,6 +21,28 @@
 
 # Liberty City Perservation Project REVIVAL
 
+## Official Warning
+
+![OfficialWarn](https://i.imgur.com/a2xirYf.png)
+
+**I can assure you that the files included in the torrents are legitimate**:
+
+*(Singleplayer.7z file opened on WinRAR):*
+<details>
+  
+  ![WinRAR](https://i.imgur.com/qaAaVpp.png)
+  
+</details>
+
+*(The README.txt from World Travel dev group):*
+<details>
+
+![Readme](https://i.imgur.com/FY5LOmT.png)
+  
+</details>
+
+---
+
 >⚠ **DISCLAIMER** ⚠: In compliance with Fair Use and completely disregarding Take-Two's end-user terms and conditions (and the request for non-distribution of the mod by their developers), I create this repository as a "support" to the Grand Theft Auto community.
 >
 >Nothing here (outside of the arguments) is my own.
@@ -45,6 +67,8 @@ Knowing that the project will be cancelled (and that it has already caused enoug
   ***?: This host is hated by people, but it's just in case.***
 
 **⚠ Keep seeding, don't hit and run ⚠**
+
+---
 
 ## Installation (from devs source)
 
@@ -107,11 +131,13 @@ FiveM Installation
 - Ensure all other server resources are properly configured to avoid conflicts.
 - If you encounter issues, check your console logs for errors related to resource loading.
 
-
+---
 
 **Installation video** (Singleplayer):
 
 [![Installation video](https://i.imgur.com/UgFYULC.png)](https://www.youtube.com/watch?v=Ggm5gzCd9Ig&ab)
+
+---
 
 ## Gallery (taked from World Travel's discord server *maybe dead in future*)
 
@@ -127,6 +153,8 @@ FiveM Installation
  
 ![NightBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-52.png)
 </details>
+
+---
 
 ## Credits
 - [World Travel] | [WT Archive] (the orginal devs of this project).
