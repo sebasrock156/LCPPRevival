@@ -61,7 +61,7 @@ Knowing that the project will be cancelled (and that it has already caused enoug
 - Singleplayer (normal textures): [SP] | [SP-Mirror1]? | [SP-Mirror2] | [SP-Mirror3]
 - Singleplayer (HD textures): [SPHD] | [SPHD-Mirror1]? | [SPHD-Mirror2] | [SPHD-Mirror3]
 - FiveM (this isn't part of the bussiness TT): [FM] | [FM-Mirror1]? | [FM-Mirror2] | [FM-Mirror3]
-- Unique Hotfix (Singleplayer only): [Hotfix] | [Hotfix-Mirror]
+- Unique Hotfix (Singleplayer only): [Hotfix] | [Hotfix-Mirror] (May be hung or crash the game)
 - Uninstaller: [Uninstaller] | [Unin-Mirror]
 
   ***?: This host is hated by people, but it's just in case.***
