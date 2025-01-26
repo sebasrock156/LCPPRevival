@@ -135,11 +135,13 @@ FiveM Installation
 
 **Installation video** (Singleplayer):
 
-[![Installation video](https://i.imgur.com/UgFYULC.png)](https://www.youtube.com/watch?v=Ggm5gzCd9Ig&ab)
+[![Installation video](https://i.imgur.com/xBoXDoE.png)](https://www.youtube.com/watch?v=Ggm5gzCd9Ig&ab)
 
 ---
 
-## Gallery (taked from World Travel's discord server *maybe dead in future*)
+## Gallery 
+
+### Taked from World Travel's discord server *maybe dead in future*
 
 <details>
 
@@ -152,6 +154,20 @@ FiveM Installation
 ![DukesBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-38.png)
  
 ![NightBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-52.png)
+</details>
+
+### In-game screenshots (taken from my workstation *sorry for the quality*)
+
+- Game: Build 3028 | latest ScriptHookV | Speed-o-meter and FPS counter by Menyoo SP | Very High - Ultra settings@1368x786 and/or 1920x1080 | Antialiasing (X4) and DOF (60% like PS4)
+- Workstation HW: Intel Xeon E5-2640v4 | Sapphire RX580 Nitro+ (8GB, no OC) | G.Skill Aegis(8x8GB)@3200MHz
+
+<details>
+
+![StarJunction](https://i.imgur.com/8yoirAU.png)
+![MiddlePark](https://i.imgur.com/73FPOAw.png)
+![RIPGraff](https://i.imgur.com/oEpBk7f.png)
+![1stSafehouse](https://i.imgur.com/KCHqaG3.png)
+  
 </details>
 
 ---
