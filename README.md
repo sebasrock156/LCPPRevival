@@ -156,7 +156,7 @@ FiveM Installation
 ![NightBridge](https://raw.githubusercontent.com/sebasrock156/LCPPRevival/refs/heads/main/img/GTA5_2025-01-15_04-51-52.png)
 </details>
 
-### In-game screenshots (taken from my workstation *sorry for the quality*)
+### In-game screenshots (taken from my workstation *sorry for the quality, I'm mirroring the WS from my old laptop*)
 
 - Game: Build 3028 | latest ScriptHookV | Speed-o-meter and FPS counter by Menyoo SP | Very High - Ultra settings@1368x786 and/or 1920x1080 | Antialiasing (X4) and DOF (60% like PS4)
 - Workstation HW: Intel Xeon E5-2640v4 | Sapphire RX580 Nitro+ (8GB, no OC) | G.Skill Aegis(8x8GB)@3200MHz
